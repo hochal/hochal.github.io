@@ -2,8 +2,8 @@ title:             Hochal's Blog
 email:             748868@gmail.com
 description:       A Blog by A Toddler
 author:            Hochal
-baseurl:           ""
-url:               "http://123.github.io"
+baseurl:           "/home1"
+url:               "http://hochal.github.io"
 
 # Social Profiles
 # twitter_username:  SBootstrap
