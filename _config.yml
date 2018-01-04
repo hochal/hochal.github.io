@@ -2,7 +2,7 @@ title:             A Blog
 email:             748868@gmail.com
 description:       by Hochal
 author:            Hochal
-baseurl:           ""
+baseurl:           "/123"
 url:               "http://hochal.github.io"
 
 # Social Profiles
